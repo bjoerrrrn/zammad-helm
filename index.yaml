@@ -34,4 +34,26 @@ entries:
     urls:
     - zammad-2.1.3.tgz
     version: 2.1.3
+  - apiVersion: v1
+    appVersion: 3.3.0
+    created: "2020-05-11T12:57:18.766876901Z"
+    description: Zammad is a web based open source helpdesk/customer support system
+      with many features to manage customer communication via several channels like
+      telephone, facebook, twitter, chat and e-mails.
+    digest: 363df4ec284f94ed3e5daca281de3ccf3880b7fad4bf9932582231a0dd027016
+    home: https://zammad.org
+    icon: https://raw.githubusercontent.com/zammad/zammad-documentation/master/images/zammad_logo_600x520.png
+    maintainers:
+    - email: monotek23@gmail.com
+      name: monotek
+    - email: contact@zammad.com
+      name: martini
+    name: zammad
+    sources:
+    - https://github.com/zammad/zammad
+    - https://github.com/zammad/zammad-docker-compose
+    - https://github.com/zammad/zammad-helm
+    urls:
+    - https://zammad.github.io/zammad-2.1.2.tgz
+    version: 2.1.2
 generated: "2020-06-28T06:27:32.9126441+02:00"
