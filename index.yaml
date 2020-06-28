@@ -30,9 +30,7 @@ entries:
       name: martini
     name: zammad
     sources:
-    - https://github.com/zammad/zammad
-    - https://github.com/zammad/zammad-docker-compose
-    - https://github.com/zammad/zammad-helm
+    - https://github.com/bjoerrrrn/zammad-helm
     urls:
     - zammad-2.1.3.tgz
     version: 2.1.3
